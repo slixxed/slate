@@ -19,7 +19,6 @@ Welcome to the Hexiro API! You can use our API to access Hexiro API endpoints.
 
 # Authentication
 
-
 Hexiro will use API keys to allow access to the API.
 
 Hexiro will expect for the API key to be included in all API requests to the server in a header that looks like the following:
